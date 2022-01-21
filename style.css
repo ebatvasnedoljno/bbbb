@@ -1470,6 +1470,10 @@ footer{
 	.story_inner{
 		margin-top: 52px;
 	}
+	
+	.story_imgs{
+		flex-wrap: wrap;
+	}
 
 	.ssup{
 		font-size: 20px;
